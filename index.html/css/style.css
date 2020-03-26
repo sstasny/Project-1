@@ -1,0 +1,68 @@
+* {
+     margin: 0;
+     padding: 0;
+
+ }
+
+ .grid {
+     display: grid;
+     grid-template: 1fr 1fr;
+     grid-template-rows: 1fr 1fr 1fr 1fr;
+     grid-gap: 10px;
+     grid-template-areas: 
+     "index-title index-title"
+     "index-header index-header"
+     "index-sidebar index-content"
+     "index-footer index-footer";
+     height: 768px;
+     width: 1024px;
+    
+ }
+
+
+ .title {
+     grid-area: index-title;
+     background-color:red;
+   
+
+
+ }
+
+
+ .header {
+     grid-area: index-header;
+ 
+
+ 
+}
+.content {
+    grid-area: index-content;
+
+
+
+
+}
+
+.sidebar {
+    grid-area: index-sidebar;
+
+
+
+
+}
+
+
+.footer {
+    grid-area: index-footer;
+   
+ 
+}
+
+
+ .grid div:nth-child(even) {
+     background-color: black;
+ }
+
+ .grid div:nth-child(odd) {
+    background-color: white;
+}
