@@ -4,27 +4,52 @@
 
 }
 
-h1 {
-    text-align: center;
-    padding-top: 25px;
-    
-
-}
-
-.grid1 {
-    margin-top: 50px;
-    padding: 15px;
-    margin-right: 50px;
-    margin-left: 50px;
-
-    
-}
-body {
-    
-}
-
 .col-centered {
     float: none;
     margin: 0 auto;
+    padding: 20px;
 
+}
+
+body {
+    background-color: grey;
+    color: black;
+    border-color: blue;
+    font-size: 20px;
+    
+}
+
+
+
+
+h1 {
+    background-color: grey;
+    color: black;
+    text-align: center;
+}
+
+.navbar {
+
+    font-size: 20px;
+    background-color: grey;
+    font-weight: bolder;
+
+    
+}.navbar-1 {
+    background-color: grey;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+
+
+.grid1 {
+    font-size: 20px;
+}
+
+
+
+.trainerpics {
+    width: 400px;
+    height: 400px;
 }
