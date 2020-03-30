@@ -15,4 +15,4 @@ Future improvements:
 .add a system for emailing clients updates of promotions.
 .add a reward system for scanning keycard each day.
 .add a shop where we can sell merch/workout supplies.
-
+.add a BMI chart
