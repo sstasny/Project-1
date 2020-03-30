@@ -12,6 +12,3 @@ Future improvements:
 .add a scheduled diet plan page
 .add a customer review page
 .add pricing system 
-
-
-
