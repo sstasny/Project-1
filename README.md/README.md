@@ -1,13 +1,17 @@
 # MY First Project
 Shelby Stasny
 
-Local gym webpage for a small buisness
+Small buisness web page for a local gym.
 
-technologies used: HTML, CSS, Bootstrap
+Technologies used: HTML, CSS, Bootstrap
+
+Click links above page to navigate through and view our trainers or the sign up page.
 
 Future improvements:
 
 .add a scheduled diet plan page
 .add a customer review page
 .add pricing system 
+
+
 
